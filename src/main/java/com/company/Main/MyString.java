@@ -1,6 +1,7 @@
 package com.company.Main;
 // класс для работы с строками.
 // Поля: имя файла, количество строк, минимальная длина строки и максимльная длина.
+
 public class MyString {
     private String fileName;
     private long strCountString;

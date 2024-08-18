@@ -1,6 +1,7 @@
 package com.company.Main;
 // класс для работы с целыми цифрами.
 // Поля: имя файла, количество строк (цифр), минимальное число, максимльное число, сумма чисел и среднее значение.
+
 public class MyInt {
     private String fileName;
     private long strCountInt;

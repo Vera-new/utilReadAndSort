@@ -1,6 +1,7 @@
 package com.company.Main;
 // класс для работы с цифрами с плавающей точкой.
 // Поля: имя файла, количество строк (цифр), минимальное число, максимльное число, сумма чисел и среднее значение.
+
 public class MyDouble {
     private String fileName;
     private long strCountDouble;

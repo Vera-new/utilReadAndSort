@@ -12,7 +12,7 @@ public class Main {
     static double minFl = Double.MAX_VALUE, maxFl = Double.MIN_VALUE;// минимальное и максимальное вещественное значение
     static long lenMax = 0, lenMin = Long.MAX_VALUE;
 
-    // метод, который проверяет, является ли число Целым
+    // метод, который проверяет, является ли число целым
     public static boolean isInteger(String string) {
         long intValue;
         if (string == null || string.isEmpty()) {
