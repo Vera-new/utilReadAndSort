@@ -26,7 +26,6 @@ public class Main {
         return false;
     }
 
-
     // метод, который проверяет, являетс ли число десятичным (с плавающей точкой)
     public static boolean isDouble(String string) {
         double doublValue;

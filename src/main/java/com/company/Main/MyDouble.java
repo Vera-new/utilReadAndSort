@@ -81,7 +81,6 @@ public class MyDouble {
         setMaxDouble(getMaxDouble(arg));
         setMidlDouble(getMidlDouble(arg));
     }
-
     // метод вывода полной информации о файле
     @Override
     public String toString(){
